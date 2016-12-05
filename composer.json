@@ -1,0 +1,12 @@
+{
+    "name": "jealone/hellowrold",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arthur Guo",
+            "email": "jealone@gmail.com"
+        }
+    ],
+    "require": {}
+}
