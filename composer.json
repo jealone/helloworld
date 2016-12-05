@@ -2,6 +2,7 @@
     "name": "jealone/hellowrold",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Arthur Guo",
